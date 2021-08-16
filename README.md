@@ -1,8 +1,8 @@
 - 👋 Hi there, I’m Shawn (@jschang19)
-- 💻 I'm a amateur coder, a student, and tech editor.
+- 💻 I'm a amateur programmer, a student, and tech editor.
 - 👀 Interested in digital marketing, python and photography.
-- 🌱 Currently learning Python advanced skills, trying to do several small project with it.
-- 📫 You can contact with me by kcshawn19@gmail.com
+- 🌱 Familiar with Python, HTML/CSS, Javascript and Google App Script.
+- 📫 You can contact with me by contact@jcshawn.com
 
 <!---
 jschang19/jschang19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
