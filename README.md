@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Shawn (@jschang19)
+- 👋 Hi there, I’m Shawn Chang ( [My website](http://jcshawn.com/))
 - 💻 I'm a amateur programmer, a student, and tech editor.
 - 👀 Interested in digital marketing, python and photography.
 - 🌱 Familiar with Python, HTML/CSS, Javascript and Google App Script.
