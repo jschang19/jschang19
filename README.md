@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Shawn Chang ( [My website](http://jcshawn.com/) )
-- 💻 I'm a amateur programmer, a student, and IT Intern of a startup.
+- 💻 Amateur programmer, freshman in NTU, and IT Intern of a startup.
 - 👀 Interested in digital marketing, blogging and photography.
-- 🤟🏻 Able to do more than saying hello world in Python, front-end and Google App Script.
+- 🤟🏻 Able to do more than printing hello world in Python, Front-end and Node.js.
 - 📫 You can contact with me by email : contact@jcshawn.com
 
 <!---
