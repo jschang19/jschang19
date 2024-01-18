@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Shawn Chang ( [My website](http://jcshawn.com/) )
 - 💻 Amateur developer, sophomore in NTU.
-- 👀 Interested in web developemnt, digital marketing, blogging and photography.
-- 🤟🏻 Able to do more than printing "hello world" in Python,and Node.js.
+- 👀 Interested in web developemnt, coffee brewing.
+- 🤟🏻 Able to do more than printing "hello world" in Python and Node.js.
 - 📫 You can contact with me by email : contact[at]jcshawn.com
 
 <!---
